@@ -31,8 +31,7 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
-
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
@@ -63,7 +62,7 @@
     "@types/react-dom": "^18.3.0",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.21",
-    "esbuild": "^0.25.3",
+    "esbuild": "^0.25.6",
     "esbuild-wasm": "^0.25.3",
     "eslint": "^9.9.1",
     "eslint-plugin-react-hooks": "^5.1.0-rc.0",
