@@ -27,7 +27,7 @@ const sectors: Sector[] = [
     title: "Infrastructures",
     description: "Routes, énergie solaire, eau potable, bâtiments publics modernes.",
     icon: <FaRoad size={30} />,
-    imageUrl: "/images/invest/infra.jpg",
+    imageUrl: "/images/image44.jpg",
     stat: 120,
   },
   {
@@ -35,7 +35,7 @@ const sectors: Sector[] = [
     title: "Agriculture",
     description: "Café, cacao, maraîchage, filières de transformation locale.",
     icon: <FaLeaf size={30} />,
-    imageUrl: "/images/invest/agriculture.jpg",
+    imageUrl: "/images/image45.jpg",
     stat: 95,
   },
   {
@@ -43,7 +43,7 @@ const sectors: Sector[] = [
     title: "Tourisme",
     description: "Écotourisme, hôtels, circuits, événements et festivals.",
     icon: <FaHotel size={30} />,
-    imageUrl: "/images/invest/tourisme.jpg",
+    imageUrl: "/images/image46.jpg",
     stat: 60,
   },
   {
@@ -51,7 +51,7 @@ const sectors: Sector[] = [
     title: "Industrie",
     description: "Transformation du bois, verre, aluminium et recyclage.",
     icon: <FaIndustry size={30} />,
-    imageUrl: "/images/invest/industrie.jpg",
+    imageUrl: "/images/image47.jpg",
     stat: 80,
   },
   {
@@ -59,7 +59,7 @@ const sectors: Sector[] = [
     title: "Tech & Digital",
     description: "Startups, e-commerce, services numériques, cybersécurité.",
     icon: <FaLaptopCode size={30} />,
-    imageUrl: "/images/invest/tech.jpg",
+    imageUrl: "/images/image48.jpg",
     stat: 42,
   },
   {
@@ -67,7 +67,7 @@ const sectors: Sector[] = [
     title: "Immobilier",
     description: "Logements, résidences étudiantes, zones commerciales modernes.",
     icon: <FaBuilding size={30} />,
-    imageUrl: "/images/invest/immobilier.jpg",
+    imageUrl: "/images/image49.jpg",
     stat: 73,
   },
 ];

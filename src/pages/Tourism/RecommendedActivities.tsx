@@ -6,22 +6,22 @@ const activities = [
   {
     title: "Croisière sur le lac Kivu",
     description: "Profitez d’une balade en bateau au coucher du soleil, avec vue sur les collines de Goma.",
-    imageUrl: "/images/tourism/activities/croisiere.jpg",
+    imageUrl: "/images/back4.jpg",
   },
   {
     title: "Randonnée au volcan Nyiragongo",
     description: "Partez à l'aventure sur les flancs du volcan pour une vue inoubliable du lac de lave.",
-    imageUrl: "/images/tourism/activities/randonnee.jpg",
+    imageUrl: "/images/image12.jpg",
   },
   {
     title: "Marché artisanal de Goma",
     description: "Explorez les objets artisanaux, peintures et tissus traditionnels locaux.",
-    imageUrl: "/images/tourism/activities/marche-artisanal.jpg",
+    imageUrl: "/images/back3.jpg",
   },
   {
     title: "Dégustation de plats typiques",
     description: "Savourez la cuisine locale comme le sombé, le makayabu ou le poisson grillé au bord du lac.",
-    imageUrl: "/images/tourism/activities/gastronomie.jpg",
+    imageUrl: "/images/image52.jpg",
   },
 ];
 

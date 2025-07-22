@@ -8,19 +8,19 @@ const testimonials = [
     name: "Aline K.",
     role: "Touriste de Kinshasa",
     text: "Goma m’a émerveillée. Le volcan, les gens, la culture… c’est inoubliable.",
-    imageUrl: "/images/tourism/testimonials/aline.jpg",
+    imageUrl: "/images/Faty.jpg",
   },
   {
     name: "Thomas M.",
     role: "Photographe belge",
     text: "Un paradis pour les amoureux de la nature. J’y retourne l’an prochain !",
-    imageUrl: "/images/tourism/testimonials/thomas.jpg",
+    imageUrl: "/images/image1.jpeg",
   },
   {
     name: "Céline M.",
     role: "Habitante de Goma",
     text: "Je suis fière de ma ville. Il y a tant à montrer au monde.",
-    imageUrl: "/images/tourism/testimonials/celine.jpg",
+    imageUrl: "/images/joyce.jpg",
   },
 ];
 

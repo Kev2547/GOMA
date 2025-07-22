@@ -21,7 +21,7 @@ const HeaderSection: React.FC<HeaderSectionProps> = ({ onSearch }) => {
         className="absolute inset-0 bg-cover bg-center filter blur-sm brightness-50"
         style={{
           backgroundImage:
-            "url('/images/back5.jpg')",
+            "url('/images/image4.jpg')",
         }}
       />
       <div

@@ -14,7 +14,7 @@ const testimonials: Testimonial[] = [
     message:
       "Goma nous a offert un terrain fertile pour notre chaîne de production. Le soutien local a dépassé nos attentes.",
     image:
-      "https://randomuser.me/api/portraits/women/44.jpg"
+      "images/Faty.jpg"
   },
   {
     name: "Jean-Pierre",
@@ -22,7 +22,7 @@ const testimonials: Testimonial[] = [
     message:
       "L'environnement entrepreneurial de Goma est l'un des plus dynamiques de la région. Nous y avons trouvé des talents et des opportunités.",
     image:
-      "https://randomuser.me/api/portraits/men/32.jpg"
+      "images/image1.jpeg"
   },
   {
     name: "Linda",
@@ -30,7 +30,7 @@ const testimonials: Testimonial[] = [
     message:
       "J'ai pu lancer mon entreprise créative ici grâce au réseau de soutien et à l'accueil chaleureux de la communauté.",
     image:
-      "https://randomuser.me/api/portraits/women/68.jpg"
+      "images/joyce.jpg"
   }
 ];
 

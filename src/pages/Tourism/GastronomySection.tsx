@@ -5,22 +5,22 @@ const dishes = [
   {
     name: "Liboke de poisson",
     description: "Poisson frais mariné et cuit dans des feuilles, un délice traditionnel.",
-    imageUrl: "/images/tourism/liboke.jpg",
+    imageUrl: "/images/image52.jpeg",
   },
   {
     name: "Ugali (Fufu)",
     description: "Pâte à base de farine de maïs ou manioc, accompagnement essentiel de la cuisine locale.",
-    imageUrl: "/images/tourism/ugali.jpg",
+    imageUrl: "/images/image53.webp",
   },
   {
     name: "Sambaza grillés",
     description: "Petits poissons du lac Kivu, grillés et servis croustillants.",
-    imageUrl: "/images/tourism/sambaza.jpg",
+    imageUrl: "/images/image54.jpeg",
   },
   {
     name: "Matoke",
     description: "Banane plantain cuite à la vapeur ou mijotée avec des légumes ou du poisson.",
-    imageUrl: "/images/tourism/matoke.jpg",
+    imageUrl: "/images/image56.jpg",
   },
 ];
 

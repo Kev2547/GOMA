@@ -7,7 +7,7 @@ const InvestHeader: React.FC = () => {
     <section
       className="relative w-full h-[80vh] flex items-center justify-center bg-center bg-cover"
       style={{
-        backgroundImage: "url('/images/goma-header-invest.jpg')", // 📸 place l’image dans public/images/
+        backgroundImage: "url('/images/image3.jpg')", // 📸 place l’image dans public/images/
       }}
     >
       {/* Overlay sombre pour lisibilité */}
@@ -41,7 +41,7 @@ const InvestHeader: React.FC = () => {
             Soumettre un projet
           </Link>
           <a
-            href="/docs/guide-investissement-goma.pdf"
+            href="/docs/invest.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-600 hover:bg-green-700 transition text-white font-semibold px-6 py-3 rounded-full shadow-md"

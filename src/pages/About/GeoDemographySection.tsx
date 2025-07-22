@@ -40,7 +40,7 @@ const GeoDemographySection = () => {
         {/* Carte de la ville */}
         <div className="mb-12 rounded-xl overflow-hidden shadow-md">
           <img
-            src="/assets/geo/map-goma.jpg"
+            src="/images/image43.png"
             alt="Carte de Goma"
             className="w-full h-[300px] object-cover"
           />

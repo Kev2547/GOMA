@@ -6,32 +6,32 @@ const timelineData = [
     year: "1906",
     title: "Fondation de Goma",
     description: "Création de la ville sous l'administration coloniale belge.",
-    image: "/assets/history/1906.jpg",
+    image: "/images/image30.jpg",
   },
   {
     year: "1977",
     title: "Première éruption majeure",
     description: "Le Nyiragongo entre en éruption, marquant l'histoire de la ville.",
-    image: "/assets/history/1906.jpg",
+    image: "/images/image35.jpeg",
   },
   {
     year: "1994",
     title: "Crise des réfugiés",
     description: "Arrivée massive de réfugiés suite au génocide rwandais.",
-    image: "/assets/history/1906.jpg",
+    image: "/image/image36.jpg",
   },
   {
     year: "2002",
     title: "Éruption catastrophique",
     description:
       "Le volcan dévaste une partie de la ville, mais Goma se relève encore.",
-      image: "/images/image24.jpg",
+      image: "/images/image37.jpeg",
   },
   {
     year: "2010+",
     title: "Renaissance et développement",
     description: "Goma devient un centre culturel, touristique et entrepreneurial.",
-    image: "/images/back3.jpg",
+    image: "/images/image3.jpg",
   },
 ];
 

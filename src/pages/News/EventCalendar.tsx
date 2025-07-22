@@ -29,7 +29,7 @@ const mockEvents: Event[] = [
     location: "Centre Culturel de Goma",
     description: "Une journée riche en musiques, danses et traditions locales.",
     category: "Culture",
-    posterUrl: "/images/event-culture.jpg",
+    posterUrl: "/images/image50.jpg",
     registrationLink: "https://example.com/inscription/journee-culturelle",
   },
   {
@@ -40,7 +40,7 @@ const mockEvents: Event[] = [
     location: "Stade de Goma",
     description: "Course populaire avec plus de 2000 participants attendus.",
     category: "Sport",
-    posterUrl: "/images/event-marathon.jpg",
+    posterUrl: "/images/image51jpg",
     registrationLink: "https://example.com/inscription/marathon-goma",
   },
   {
@@ -51,7 +51,7 @@ const mockEvents: Event[] = [
     location: "Mairie de Goma",
     description: "Discussion ouverte sur la participation citoyenne.",
     category: "Politique",
-    posterUrl: "/images/event-conference.jpg",
+    posterUrl: "/images/iamge41.jpg",
   },
 ];
 

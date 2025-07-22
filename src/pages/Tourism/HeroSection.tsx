@@ -7,7 +7,7 @@ const Tourism = () => {
     <section className="relative h-[100vh] flex items-center justify-center overflow-hidden bg-black">
       {/* Fond image */}
       <img
-        src="/images/goma-tourism-hero.jpg"
+        src="/images/image3.jpg"
         alt="Vue panoramique de Goma"
         className="absolute inset-0 w-full h-full object-cover object-center opacity-80"
       />

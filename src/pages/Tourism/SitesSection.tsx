@@ -22,21 +22,21 @@ const touristicSites: Site[] = [
     title: "Lac Kivu",
     category: "Lac",
     description: "Un lac majestueux aux eaux calmes, idéal pour les croisières et couchers de soleil.",
-    imageUrl: "/images/bac4.jpg",
+    imageUrl: "/images/back4.jpg",
   },
   {
     id: "3",
     title: "Parc de Virunga",
     category: "Parc National",
     description: "Le plus ancien parc d’Afrique, refuge des gorilles de montagne.",
-    imageUrl: "/images/tourism/parc-virunga.jpg",
+    imageUrl: "/images/image57.jpg",
   },
   {
     id: "4",
     title: "Musée de Goma",
     category: "Culture",
     description: "Un espace dédié à l’histoire, aux traditions et à l’art de la région.",
-    imageUrl: "/images/tourism/musee-goma.jpg",
+    imageUrl: "/images/image58.webp",
   },
 ];
 

@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 const leader = {
   name: "Dieudonné Kazongo",
   role: "Maire de Goma",
-  photoUrl: "/images/maire-goma.jpg", // ajoute ta photo dans /public/images/
+  photoUrl: "/images/image42.webp", 
   bio: "Passionné par le développement durable et la gouvernance participative, il œuvre pour une ville plus verte et plus moderne.",
   message: "Une ville propre, une ville prospère.",
 };

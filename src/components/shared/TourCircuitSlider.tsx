@@ -12,12 +12,12 @@ const circuits = [
   {
     title: "Immersion culturelle dans les villages Nande",
     duration: "2 jours",
-    imageUrl: "/images/tourism/circuits/nande.jpg",
+    imageUrl: "/images/image59.webp",
   },
   {
     title: "Safari express au Parc Virunga",
     duration: "1 journée",
-    imageUrl: "/images/tourism/circuits/virunga.jpg",
+    imageUrl: "/images/image60.jpg",
   },
 ];
 
