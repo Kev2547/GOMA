@@ -11,7 +11,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://servertamu.onrender.com',
+        target: 'https://servergoma.onrender.com',
         changeOrigin: true,
         secure: false,
       },
