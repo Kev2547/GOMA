@@ -1,23 +1,19 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-
 export default defineConfig({
   plugins: [react()],
-  base: '/',
-  optimizeDeps: {
-    exclude: ['lucide-react'],
-  },
   server: {
     proxy: {
       '/api': {
-        target: 'https://servergoma.onrender.com',
+        target: 'https://gomaserver.onrender.com',
         changeOrigin: true,
-        secure: false,
+        secure: true,
       },
     },
   },
   build: {
+    chunkSizeWarningLimit: 2000,
     rollupOptions: {
       output: {
         manualChunks: {
