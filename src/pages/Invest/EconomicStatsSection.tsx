@@ -60,10 +60,11 @@ const EconomicStatsSection = () => {
       y: {
         beginAtZero: true,
         ticks: {
-          callback: function (value: any) {
-            return typeof value === "number" && value > 100 ? value : value + "%";
-          }
-        }
+  callback: function (value: number | string) {
+    return typeof value === "number" && value > 100 ? value : value + "%";
+  }
+}
+
       }
     }
   };
