@@ -50,7 +50,7 @@ const WeatherWidget = () => {
   }
 
   return (
-    <div className="bg-white/10 backdrop-blur-sm text-white p-3 rounded-lg shadow-lg flex items-center gap-2 text-sm">
+    <div className="bg-white/5 backdrop-blur-sm text-green-200 p-3 rounded-lg shadow-lg flex items-center gap-2 text-sm">
       <img
         src={`https://openweathermap.org/img/wn/${weather.icon}@2x.png`}
         alt={weather.description}

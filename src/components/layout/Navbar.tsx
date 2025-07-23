@@ -8,11 +8,11 @@ const Navbar = () => {
 
   return (
     <header className="w-full fixed top-0 z-50">
-      <nav className="bg-white/10 backdrop-blur-md text-white px-6 py-3 md:px-12 md:py-4 rounded-b-2xl shadow-lg flex items-center justify-between">
+      <nav className="  text-white px-6 py-3 md:px-12 md:py-4 rounded-b-2xl  flex items-center justify-between">
         {/* Logo */}
         <div className="flex items-center gap-2">
           <img src="/images/LGO.png" className="h-8" alt="Goma" />
-          <span className="text-xl font-bold tracking-wide">GOMA CITY</span>
+          <span className="text-xl font-bold tracking-wide">NORD KIVU</span>
         </div>
 
         {/* Desktop Menu */}
@@ -40,14 +40,19 @@ const Navbar = () => {
     </ul>
   </li>
   <li>
-    <a href="/Services" className="hover:underline">Services</a>
+    <a href="/About" className="hover:underline">Services</a>
   </li>
   <li>
-    <a href="/Directory" className="hover:underline">Annuaire</a>
+    <a href="/AdminDirectory" className="hover:underline">Annuaire</a>
   </li>
   <li>
     <a href="/Contact" className="hover:underline">Contact</a>
   </li>
+  <li>
+            <a href="/Join" className="ml-2 px-4 py-1 bg-yellow-400 text-black font-semibold rounded-full hover:bg-yellow-300 transition">
+              Join Us
+            </a>
+          </li>
 </ul>
 
 
@@ -76,9 +81,10 @@ const Navbar = () => {
               <a href="/Invest/Guide">Guide</a>
             </div>
           </details>
-          <a href="/Services" className="block">Services</a>
-          <a href="/Directory" className="block">Annuaire</a>
+          <a href="/About" className="block">Services</a>
+          <a href="/AdminDirectory" className="block">Annuaire</a>
           <a href="/Contact" className="block">Contact</a>
+            <a href="/Join" className="block bg-yellow-400 text-black font-semibold text-center py-2 rounded">Join Us</a>
         </div>
       )}
     </header>
